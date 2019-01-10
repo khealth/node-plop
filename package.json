@@ -58,7 +58,7 @@
   "dependencies": {
     "change-case": "^3.0.1",
     "co": "^4.6.0",
-    "core-js": "^2.4.1",
+    "core-js": "^2.6.2",
     "del": "^3.0.0",
     "globby": "^8.0.0",
     "handlebars": "^4.0.5",
